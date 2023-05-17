@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @filly7721
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on somethings
-- 📫 How to reach me, dont.
+- 👀 I’m interested in everything digital
+- 🌱 I’m currently learning backend engineering and other fun stuff on the side
+- 💞️ I’m looking to collaborate on all the fun projects
+- 📫 How to reach me? DMs... duh.
 
 <!---
 filly7721/filly7721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
